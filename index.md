@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
 ---
-content : I love hamsters
+I love hamsters, they are adorable!
